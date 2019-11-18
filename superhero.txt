@@ -1,0 +1,9 @@
+Add your favorite superhero on line 9 
+either before or after the on that is there, 
+please seperate with a ','
+
+This exercise will show merge conflicts with simple text files
+
+************************************************************
+
+Batman
