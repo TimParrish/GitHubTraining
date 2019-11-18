@@ -11,6 +11,7 @@ Notes on the event:
     - How to resolve in the file
   - Branching
   - Pull requests
+  - Additional content based on request and time permitting
 
 #### Setup stuff...
 
