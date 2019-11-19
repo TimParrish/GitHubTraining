@@ -28,3 +28,9 @@ Notes on the event:
   - General [Git Scm Downloads](https://git-scm.com/downloads)
 - Clone this repository down to your machine
   - `git clone https://github.com/TimParrish/GitHubTraining.git`
+
+After installing git, set git config:
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
