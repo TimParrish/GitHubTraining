@@ -1,4 +1,12 @@
-
+print("Listing of awesome superheros!")
+print("Spider Man")
+print("THE PUNISHER")
+print("Catwoman")
 print("Batman")
 print("Robin")
 print("WonderWoman")
+print("Iron Man")
+print("me as a cat")
+print("Superman")
+print("Wonder Woman")
+print("Gerard")
