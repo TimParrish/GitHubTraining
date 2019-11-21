@@ -1,3 +1,2 @@
 
-print("Batman")
-print("Robin")
+print("Spider man")
