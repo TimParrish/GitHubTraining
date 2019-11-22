@@ -13,6 +13,8 @@ Notes on the event:
   - Pull requests
   - Additional content based on request and time permitting
 
+## [Github Cheatsheat](https://education.github.com/git-cheat-sheet-education.pdf)
+
 #### Setup stuff...
 
 - Ensure you have a GitHub account, or [create a GitHub account](https://github.com/)
